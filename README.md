@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Mahesharunaladi/Java/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Mahesharunaladi/Java/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -33,4 +34,5 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Mahesharunaladi/Java/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/Mahesharunaladi/Java/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
