@@ -35,4 +35,13 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Mahesharunaladi/Java/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Mahesharunaladi/Java/tree/master/0066-plus-one) |
+| [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
