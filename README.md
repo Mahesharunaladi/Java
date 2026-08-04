@@ -13,6 +13,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Mahesharunaladi/Java/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Mahesharunaladi/Java/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/Mahesharunaladi/Java/tree/master/0058-length-of-last-word) |
 ## Simulation
 |  |
 | ------- |
