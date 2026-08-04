@@ -14,6 +14,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Mahesharunaladi/Java/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Mahesharunaladi/Java/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Mahesharunaladi/Java/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mahesharunaladi/Java/tree/master/0058-length-of-last-word) |
 ## Simulation
 |  |
@@ -41,16 +42,19 @@
 | [0046-permutations](https://github.com/Mahesharunaladi/Java/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mahesharunaladi/Java/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Mahesharunaladi/Java/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Mahesharunaladi/Java/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Mahesharunaladi/Java/tree/master/0066-plus-one) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mahesharunaladi/Java/tree/master/0049-group-anagrams) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Mahesharunaladi/Java/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Mahesharunaladi/Java/tree/master/0049-group-anagrams) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
