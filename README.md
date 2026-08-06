@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/Mahesharunaladi/Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mahesharunaladi/Java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Mahesharunaladi/Java/tree/master/0066-plus-one) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mahesharunaladi/Java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mahesharunaladi/Java/tree/master/0048-rotate-image) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mahesharunaladi/Java/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
