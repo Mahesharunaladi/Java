@@ -54,6 +54,7 @@
 | [0066-plus-one](https://github.com/Mahesharunaladi/Java/tree/master/0066-plus-one) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0456-132-pattern](https://github.com/Mahesharunaladi/Java/tree/master/0456-132-pattern) |
+| [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
 | [1306-jump-game-iii](https://github.com/Mahesharunaladi/Java/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
@@ -61,12 +62,14 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mahesharunaladi/Java/tree/master/0049-group-anagrams) |
+| [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Mahesharunaladi/Java/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Mahesharunaladi/Java/tree/master/0049-group-anagrams) |
+| [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -104,6 +107,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0400-nth-digit](https://github.com/Mahesharunaladi/Java/tree/master/0400-nth-digit) |
 | [0456-132-pattern](https://github.com/Mahesharunaladi/Java/tree/master/0456-132-pattern) |
+| [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
 ## Stack
 |  |
 | ------- |
