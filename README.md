@@ -26,11 +26,13 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Mahesharunaladi/Java/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Mahesharunaladi/Java/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Mahesharunaladi/Java/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Mahesharunaladi/Java/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Mahesharunaladi/Java/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Mahesharunaladi/Java/tree/master/0055-jump-game) |
 ## Recursion
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0047-permutations-ii](https://github.com/Mahesharunaladi/Java/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Mahesharunaladi/Java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mahesharunaladi/Java/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Mahesharunaladi/Java/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Mahesharunaladi/Java/tree/master/0066-plus-one) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 ## Hash Table
