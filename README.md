@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Mahesharunaladi/Java/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/Mahesharunaladi/Java/tree/master/0059-spiral-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0055-jump-game](https://github.com/Mahesharunaladi/Java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mahesharunaladi/Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Mahesharunaladi/Java/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Mahesharunaladi/Java/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Mahesharunaladi/Java/tree/master/0066-plus-one) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0456-132-pattern](https://github.com/Mahesharunaladi/Java/tree/master/0456-132-pattern) |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mahesharunaladi/Java/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Mahesharunaladi/Java/tree/master/0059-spiral-matrix-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Enumeration
 |  |
