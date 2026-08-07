@@ -146,4 +146,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Mahesharunaladi/Java/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Mahesharunaladi/Java/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Mahesharunaladi/Java/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
