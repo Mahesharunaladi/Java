@@ -20,6 +20,7 @@
 | [0049-group-anagrams](https://github.com/Mahesharunaladi/Java/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mahesharunaladi/Java/tree/master/0058-length-of-last-word) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
@@ -34,12 +35,14 @@
 | [0055-jump-game](https://github.com/Mahesharunaladi/Java/tree/master/0055-jump-game) |
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Mahesharunaladi/Java/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Mahesharunaladi/Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mahesharunaladi/Java/tree/master/0055-jump-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
@@ -154,4 +157,5 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Mahesharunaladi/Java/tree/master/0061-rotate-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
