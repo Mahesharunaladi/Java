@@ -12,6 +12,7 @@
 | [0400-nth-digit](https://github.com/Mahesharunaladi/Java/tree/master/0400-nth-digit) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mahesharunaladi/Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [1306-jump-game-iii](https://github.com/Mahesharunaladi/Java/tree/master/1306-jump-game-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -85,6 +87,7 @@
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -126,6 +129,7 @@
 | [0456-132-pattern](https://github.com/Mahesharunaladi/Java/tree/master/0456-132-pattern) |
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Stack
 |  |
 | ------- |
@@ -163,4 +167,8 @@
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Mahesharunaladi/Java/tree/master/2833-furthest-point-from-origin) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
