@@ -36,6 +36,7 @@
 | [0044-wildcard-matching](https://github.com/Mahesharunaladi/Java/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Mahesharunaladi/Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mahesharunaladi/Java/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Mahesharunaladi/Java/tree/master/0063-unique-paths-ii) |
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -64,6 +65,7 @@
 | [0056-merge-intervals](https://github.com/Mahesharunaladi/Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Mahesharunaladi/Java/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Mahesharunaladi/Java/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Mahesharunaladi/Java/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Mahesharunaladi/Java/tree/master/0066-plus-one) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0456-132-pattern](https://github.com/Mahesharunaladi/Java/tree/master/0456-132-pattern) |
@@ -103,6 +105,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Mahesharunaladi/Java/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Mahesharunaladi/Java/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Mahesharunaladi/Java/tree/master/0063-unique-paths-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Enumeration
