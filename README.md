@@ -184,10 +184,12 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Mahesharunaladi/Java/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mahesharunaladi/Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Mahesharunaladi/Java/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mahesharunaladi/Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting
 |  |
