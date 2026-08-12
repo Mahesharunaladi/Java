@@ -25,6 +25,7 @@
 | [0058-length-of-last-word](https://github.com/Mahesharunaladi/Java/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Mahesharunaladi/Java/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/Mahesharunaladi/Java/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Mahesharunaladi/Java/tree/master/0087-scramble-string) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
 | [2833-furthest-point-from-origin](https://github.com/Mahesharunaladi/Java/tree/master/2833-furthest-point-from-origin) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -42,6 +43,7 @@
 | [0055-jump-game](https://github.com/Mahesharunaladi/Java/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Mahesharunaladi/Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mahesharunaladi/Java/tree/master/0064-minimum-path-sum) |
+| [0087-scramble-string](https://github.com/Mahesharunaladi/Java/tree/master/0087-scramble-string) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
 | [1510-stone-game-iv](https://github.com/Mahesharunaladi/Java/tree/master/1510-stone-game-iv) |
