@@ -41,6 +41,7 @@
 | [0045-jump-game-ii](https://github.com/Mahesharunaladi/Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mahesharunaladi/Java/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Mahesharunaladi/Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Mahesharunaladi/Java/tree/master/0064-minimum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
 | [1510-stone-game-iv](https://github.com/Mahesharunaladi/Java/tree/master/1510-stone-game-iv) |
@@ -73,6 +74,7 @@
 | [0057-insert-interval](https://github.com/Mahesharunaladi/Java/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Mahesharunaladi/Java/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Mahesharunaladi/Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Mahesharunaladi/Java/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Mahesharunaladi/Java/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahesharunaladi/Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -124,6 +126,7 @@
 | [0048-rotate-image](https://github.com/Mahesharunaladi/Java/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Mahesharunaladi/Java/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Mahesharunaladi/Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Mahesharunaladi/Java/tree/master/0064-minimum-path-sum) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Enumeration
