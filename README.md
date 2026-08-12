@@ -84,6 +84,7 @@
 | [0068-text-justification](https://github.com/Mahesharunaladi/Java/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahesharunaladi/Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mahesharunaladi/Java/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Mahesharunaladi/Java/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
 | [0456-132-pattern](https://github.com/Mahesharunaladi/Java/tree/master/0456-132-pattern) |
@@ -113,6 +114,7 @@
 | [0047-permutations-ii](https://github.com/Mahesharunaladi/Java/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Mahesharunaladi/Java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mahesharunaladi/Java/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Mahesharunaladi/Java/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -209,6 +211,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/Mahesharunaladi/Java/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mahesharunaladi/Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/Mahesharunaladi/Java/tree/master/0088-merge-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting
 |  |
