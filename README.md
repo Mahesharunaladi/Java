@@ -84,6 +84,7 @@
 | [0064-minimum-path-sum](https://github.com/Mahesharunaladi/Java/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Mahesharunaladi/Java/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Mahesharunaladi/Java/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/Mahesharunaladi/Java/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahesharunaladi/Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mahesharunaladi/Java/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Mahesharunaladi/Java/tree/master/0088-merge-sorted-array) |
@@ -118,6 +119,7 @@
 | [0047-permutations-ii](https://github.com/Mahesharunaladi/Java/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Mahesharunaladi/Java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mahesharunaladi/Java/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Mahesharunaladi/Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mahesharunaladi/Java/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Mahesharunaladi/Java/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Mahesharunaladi/Java/tree/master/0075-sort-colors) |
 ## Linked List
 |  |
 | ------- |
@@ -216,6 +219,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Mahesharunaladi/Java/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Mahesharunaladi/Java/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mahesharunaladi/Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Mahesharunaladi/Java/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
@@ -269,4 +273,8 @@
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mahesharunaladi/Java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
