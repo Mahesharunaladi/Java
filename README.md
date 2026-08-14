@@ -10,6 +10,7 @@
 | [0050-powx-n](https://github.com/Mahesharunaladi/Java/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Mahesharunaladi/Java/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Mahesharunaladi/Java/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/Mahesharunaladi/Java/tree/master/0089-gray-code) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
 | [0400-nth-digit](https://github.com/Mahesharunaladi/Java/tree/master/0400-nth-digit) |
 | [1510-stone-game-iv](https://github.com/Mahesharunaladi/Java/tree/master/1510-stone-game-iv) |
@@ -141,6 +142,7 @@
 | [0046-permutations](https://github.com/Mahesharunaladi/Java/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mahesharunaladi/Java/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Mahesharunaladi/Java/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/Mahesharunaladi/Java/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Mahesharunaladi/Java/tree/master/0090-subsets-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
@@ -291,6 +293,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Mahesharunaladi/Java/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Mahesharunaladi/Java/tree/master/0090-subsets-ii) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/Mahesharunaladi/Java/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2741-special-permutations](https://github.com/Mahesharunaladi/Java/tree/master/2741-special-permutations) |
