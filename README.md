@@ -26,6 +26,7 @@
 | [0058-length-of-last-word](https://github.com/Mahesharunaladi/Java/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Mahesharunaladi/Java/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Mahesharunaladi/Java/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Mahesharunaladi/Java/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Mahesharunaladi/Java/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Mahesharunaladi/Java/tree/master/0087-scramble-string) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
@@ -198,6 +199,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Mahesharunaladi/Java/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahesharunaladi/Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mahesharunaladi/Java/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/Mahesharunaladi/Java/tree/master/0456-132-pattern) |
