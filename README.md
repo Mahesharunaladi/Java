@@ -30,6 +30,7 @@
 | [0071-simplify-path](https://github.com/Mahesharunaladi/Java/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Mahesharunaladi/Java/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Mahesharunaladi/Java/tree/master/0087-scramble-string) |
+| [0093-restore-ip-addresses](https://github.com/Mahesharunaladi/Java/tree/master/0093-restore-ip-addresses) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -151,6 +152,7 @@
 | [0077-combinations](https://github.com/Mahesharunaladi/Java/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Mahesharunaladi/Java/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Mahesharunaladi/Java/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/Mahesharunaladi/Java/tree/master/0093-restore-ip-addresses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
