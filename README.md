@@ -14,6 +14,7 @@
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
 | [0400-nth-digit](https://github.com/Mahesharunaladi/Java/tree/master/0400-nth-digit) |
 | [1510-stone-game-iv](https://github.com/Mahesharunaladi/Java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mahesharunaladi/Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -65,6 +66,7 @@
 | [0044-wildcard-matching](https://github.com/Mahesharunaladi/Java/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Mahesharunaladi/Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mahesharunaladi/Java/tree/master/0055-jump-game) |
+| [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
@@ -103,6 +105,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/Mahesharunaladi/Java/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2741-special-permutations](https://github.com/Mahesharunaladi/Java/tree/master/2741-special-permutations) |
@@ -247,6 +250,7 @@
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Mahesharunaladi/Java/tree/master/2833-furthest-point-from-origin) |
 ## Geometry
 |  |
@@ -260,14 +264,17 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Mahesharunaladi/Java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Mahesharunaladi/Java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Mahesharunaladi/Java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -276,6 +283,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Mahesharunaladi/Java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
