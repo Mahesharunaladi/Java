@@ -115,6 +115,7 @@
 | [2741-special-permutations](https://github.com/Mahesharunaladi/Java/tree/master/2741-special-permutations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mahesharunaladi/Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahesharunaladi/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mahesharunaladi/Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
@@ -168,6 +169,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/Mahesharunaladi/Java/tree/master/2732-find-a-good-subset-of-the-matrix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | ------- |
 | [1306-jump-game-iii](https://github.com/Mahesharunaladi/Java/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -226,6 +229,7 @@
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -323,4 +327,12 @@
 |  |
 | ------- |
 | [2741-special-permutations](https://github.com/Mahesharunaladi/Java/tree/master/2741-special-permutations) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
