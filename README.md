@@ -95,6 +95,7 @@
 | [0064-minimum-path-sum](https://github.com/Mahesharunaladi/Java/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Mahesharunaladi/Java/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Mahesharunaladi/Java/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Mahesharunaladi/Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mahesharunaladi/Java/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahesharunaladi/Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mahesharunaladi/Java/tree/master/0085-maximal-rectangle) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mahesharunaladi/Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Mahesharunaladi/Java/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Mahesharunaladi/Java/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Mahesharunaladi/Java/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
@@ -172,6 +174,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Mahesharunaladi/Java/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Mahesharunaladi/Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mahesharunaladi/Java/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Mahesharunaladi/Java/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Mahesharunaladi/Java/tree/master/0085-maximal-rectangle) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
