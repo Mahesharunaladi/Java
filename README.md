@@ -426,4 +426,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Mahesharunaladi/Java/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
