@@ -41,6 +41,7 @@
 | [0087-scramble-string](https://github.com/Mahesharunaladi/Java/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Mahesharunaladi/Java/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Mahesharunaladi/Java/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Mahesharunaladi/Java/tree/master/0168-excel-sheet-column-title) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
@@ -70,6 +71,7 @@
 | [0087-scramble-string](https://github.com/Mahesharunaladi/Java/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Mahesharunaladi/Java/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Mahesharunaladi/Java/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
 | [0337-house-robber-iii](https://github.com/Mahesharunaladi/Java/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
@@ -120,6 +122,7 @@
 | [0088-merge-sorted-array](https://github.com/Mahesharunaladi/Java/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Mahesharunaladi/Java/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Mahesharunaladi/Java/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Mahesharunaladi/Java/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
@@ -155,6 +158,7 @@
 | [0049-group-anagrams](https://github.com/Mahesharunaladi/Java/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Mahesharunaladi/Java/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Mahesharunaladi/Java/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/Mahesharunaladi/Java/tree/master/1331-rank-transform-of-an-array) |
@@ -410,4 +414,16 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Mahesharunaladi/Java/tree/master/0337-house-robber-iii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
