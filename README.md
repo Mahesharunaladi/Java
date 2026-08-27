@@ -46,6 +46,7 @@
 | [0097-interleaving-string](https://github.com/Mahesharunaladi/Java/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Mahesharunaladi/Java/tree/master/0168-excel-sheet-column-title) |
+| [0299-bulls-and-cows](https://github.com/Mahesharunaladi/Java/tree/master/0299-bulls-and-cows) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/Mahesharunaladi/Java/tree/master/1927-sum-game) |
@@ -170,6 +171,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Mahesharunaladi/Java/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Mahesharunaladi/Java/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
+| [0299-bulls-and-cows](https://github.com/Mahesharunaladi/Java/tree/master/0299-bulls-and-cows) |
 | [0447-number-of-boomerangs](https://github.com/Mahesharunaladi/Java/tree/master/0447-number-of-boomerangs) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
@@ -327,6 +329,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Mahesharunaladi/Java/tree/master/0299-bulls-and-cows) |
 | [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Mahesharunaladi/Java/tree/master/2833-furthest-point-from-origin) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
