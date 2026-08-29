@@ -152,6 +152,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/Mahesharunaladi/Java/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2741-special-permutations](https://github.com/Mahesharunaladi/Java/tree/master/2741-special-permutations) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahesharunaladi/Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mahesharunaladi/Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahesharunaladi/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mahesharunaladi/Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -202,6 +203,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Mahesharunaladi/Java/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahesharunaladi/Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahesharunaladi/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
@@ -344,6 +346,7 @@
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahesharunaladi/Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Minimax
 |  |
 | ------- |
