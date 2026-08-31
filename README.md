@@ -82,6 +82,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Mahesharunaladi/Java/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
 | [1510-stone-game-iv](https://github.com/Mahesharunaladi/Java/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1563-stone-game-v) |
@@ -140,6 +141,7 @@
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
 | [0447-number-of-boomerangs](https://github.com/Mahesharunaladi/Java/tree/master/0447-number-of-boomerangs) |
 | [0456-132-pattern](https://github.com/Mahesharunaladi/Java/tree/master/0456-132-pattern) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
 | [1288-remove-covered-intervals](https://github.com/Mahesharunaladi/Java/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Mahesharunaladi/Java/tree/master/1306-jump-game-iii) |
@@ -391,6 +393,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -469,4 +472,9 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
