@@ -79,6 +79,7 @@
 | [0097-interleaving-string](https://github.com/Mahesharunaladi/Java/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Mahesharunaladi/Java/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Mahesharunaladi/Java/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
@@ -135,6 +136,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Mahesharunaladi/Java/tree/master/0189-rotate-array) |
 | [0275-h-index-ii](https://github.com/Mahesharunaladi/Java/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
 | [0447-number-of-boomerangs](https://github.com/Mahesharunaladi/Java/tree/master/0447-number-of-boomerangs) |
 | [0456-132-pattern](https://github.com/Mahesharunaladi/Java/tree/master/0456-132-pattern) |
@@ -269,6 +271,7 @@
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0275-h-index-ii](https://github.com/Mahesharunaladi/Java/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/Mahesharunaladi/Java/tree/master/0400-nth-digit) |
 | [0456-132-pattern](https://github.com/Mahesharunaladi/Java/tree/master/0456-132-pattern) |
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
@@ -462,4 +465,8 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Mahesharunaladi/Java/tree/master/0197-rising-temperature) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
