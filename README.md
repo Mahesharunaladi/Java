@@ -137,6 +137,7 @@
 | [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Mahesharunaladi/Java/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Mahesharunaladi/Java/tree/master/0217-contains-duplicate) |
 | [0275-h-index-ii](https://github.com/Mahesharunaladi/Java/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
@@ -179,6 +180,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Mahesharunaladi/Java/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Mahesharunaladi/Java/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/Mahesharunaladi/Java/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/Mahesharunaladi/Java/tree/master/0299-bulls-and-cows) |
 | [0447-number-of-boomerangs](https://github.com/Mahesharunaladi/Java/tree/master/0447-number-of-boomerangs) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
@@ -203,6 +205,7 @@
 | [0075-sort-colors](https://github.com/Mahesharunaladi/Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mahesharunaladi/Java/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mahesharunaladi/Java/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/Mahesharunaladi/Java/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
 | [1288-remove-covered-intervals](https://github.com/Mahesharunaladi/Java/tree/master/1288-remove-covered-intervals) |
