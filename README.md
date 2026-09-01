@@ -14,6 +14,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Mahesharunaladi/Java/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Mahesharunaladi/Java/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Mahesharunaladi/Java/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Mahesharunaladi/Java/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Mahesharunaladi/Java/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/Mahesharunaladi/Java/tree/master/0400-nth-digit) |
@@ -80,6 +81,7 @@
 | [0097-interleaving-string](https://github.com/Mahesharunaladi/Java/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Mahesharunaladi/Java/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
+| [0264-ugly-number-ii](https://github.com/Mahesharunaladi/Java/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Mahesharunaladi/Java/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
@@ -185,6 +187,7 @@
 | [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Mahesharunaladi/Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mahesharunaladi/Java/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/Mahesharunaladi/Java/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/Mahesharunaladi/Java/tree/master/0299-bulls-and-cows) |
 | [0447-number-of-boomerangs](https://github.com/Mahesharunaladi/Java/tree/master/0447-number-of-boomerangs) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
@@ -314,6 +317,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Mahesharunaladi/Java/tree/master/0264-ugly-number-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Number Theory
