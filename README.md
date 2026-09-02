@@ -19,6 +19,7 @@
 | [0371-sum-of-two-integers](https://github.com/Mahesharunaladi/Java/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/Mahesharunaladi/Java/tree/master/0400-nth-digit) |
 | [0447-number-of-boomerangs](https://github.com/Mahesharunaladi/Java/tree/master/0447-number-of-boomerangs) |
+| [0507-perfect-number](https://github.com/Mahesharunaladi/Java/tree/master/0507-perfect-number) |
 | [1510-stone-game-iv](https://github.com/Mahesharunaladi/Java/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Mahesharunaladi/Java/tree/master/1872-stone-game-viii) |
