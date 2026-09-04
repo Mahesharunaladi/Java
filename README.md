@@ -144,6 +144,7 @@
 | [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Mahesharunaladi/Java/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mahesharunaladi/Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mahesharunaladi/Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mahesharunaladi/Java/tree/master/0219-contains-duplicate-ii) |
 | [0275-h-index-ii](https://github.com/Mahesharunaladi/Java/tree/master/0275-h-index-ii) |
@@ -282,6 +283,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Mahesharunaladi/Java/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mahesharunaladi/Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Mahesharunaladi/Java/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
@@ -291,6 +293,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mahesharunaladi/Java/tree/master/0209-minimum-size-subarray-sum) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Mahesharunaladi/Java/tree/master/1872-stone-game-viii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -299,6 +302,7 @@
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mahesharunaladi/Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/Mahesharunaladi/Java/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/Mahesharunaladi/Java/tree/master/0400-nth-digit) |
