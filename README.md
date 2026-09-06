@@ -49,6 +49,7 @@
 | [0087-scramble-string](https://github.com/Mahesharunaladi/Java/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Mahesharunaladi/Java/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Mahesharunaladi/Java/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Mahesharunaladi/Java/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Mahesharunaladi/Java/tree/master/0168-excel-sheet-column-title) |
 | [0299-bulls-and-cows](https://github.com/Mahesharunaladi/Java/tree/master/0299-bulls-and-cows) |
@@ -82,6 +83,7 @@
 | [0085-maximal-rectangle](https://github.com/Mahesharunaladi/Java/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Mahesharunaladi/Java/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Mahesharunaladi/Java/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Mahesharunaladi/Java/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Mahesharunaladi/Java/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Mahesharunaladi/Java/tree/master/0264-ugly-number-ii) |
