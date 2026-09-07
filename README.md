@@ -113,6 +113,7 @@
 | [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3457-eat-pizzas](https://github.com/Mahesharunaladi/Java/tree/master/3457-eat-pizzas) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
 |  |
@@ -179,6 +180,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mahesharunaladi/Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mahesharunaladi/Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3457-eat-pizzas](https://github.com/Mahesharunaladi/Java/tree/master/3457-eat-pizzas) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mahesharunaladi/Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mahesharunaladi/Java/tree/master/3483-unique-3-digit-even-numbers) |
@@ -237,6 +239,7 @@
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahesharunaladi/Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahesharunaladi/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3457-eat-pizzas](https://github.com/Mahesharunaladi/Java/tree/master/3457-eat-pizzas) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 ## Backtracking
