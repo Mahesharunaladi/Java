@@ -64,6 +64,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mahesharunaladi/Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mahesharunaladi/Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3333-find-the-original-typed-string-ii](https://github.com/Mahesharunaladi/Java/tree/master/3333-find-the-original-typed-string-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3456-find-special-substring-of-length-k](https://github.com/Mahesharunaladi/Java/tree/master/3456-find-special-substring-of-length-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -104,6 +105,7 @@
 | [2407-longest-increasing-subsequence-ii](https://github.com/Mahesharunaladi/Java/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2741-special-permutations](https://github.com/Mahesharunaladi/Java/tree/master/2741-special-permutations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3333-find-the-original-typed-string-ii](https://github.com/Mahesharunaladi/Java/tree/master/3333-find-the-original-typed-string-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mahesharunaladi/Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
 |  |
@@ -313,6 +315,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mahesharunaladi/Java/tree/master/0209-minimum-size-subarray-sum) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Mahesharunaladi/Java/tree/master/1872-stone-game-viii) |
+| [3333-find-the-original-typed-string-ii](https://github.com/Mahesharunaladi/Java/tree/master/3333-find-the-original-typed-string-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Mahesharunaladi/Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mahesharunaladi/Java/tree/master/3904-smallest-stable-index-ii) |
