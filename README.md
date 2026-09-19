@@ -21,6 +21,7 @@
 | [0447-number-of-boomerangs](https://github.com/Mahesharunaladi/Java/tree/master/0447-number-of-boomerangs) |
 | [0507-perfect-number](https://github.com/Mahesharunaladi/Java/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Mahesharunaladi/Java/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Mahesharunaladi/Java/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Mahesharunaladi/Java/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mahesharunaladi/Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -438,6 +439,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Mahesharunaladi/Java/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Mahesharunaladi/Java/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Union-Find
 |  |
