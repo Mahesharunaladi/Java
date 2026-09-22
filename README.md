@@ -30,6 +30,7 @@
 | [1927-sum-game](https://github.com/Mahesharunaladi/Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Mahesharunaladi/Java/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Mahesharunaladi/Java/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mahesharunaladi/Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mahesharunaladi/Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mahesharunaladi/Java/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -205,6 +206,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Mahesharunaladi/Java/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2347-best-poker-hand](https://github.com/Mahesharunaladi/Java/tree/master/2347-best-poker-hand) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Mahesharunaladi/Java/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Mahesharunaladi/Java/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/Mahesharunaladi/Java/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2741-special-permutations](https://github.com/Mahesharunaladi/Java/tree/master/2741-special-permutations) |
