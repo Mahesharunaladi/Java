@@ -201,6 +201,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mahesharunaladi/Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mahesharunaladi/Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Mahesharunaladi/Java/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -254,6 +255,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Mahesharunaladi/Java/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mahesharunaladi/Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mahesharunaladi/Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mahesharunaladi/Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2347-best-poker-hand](https://github.com/Mahesharunaladi/Java/tree/master/2347-best-poker-hand) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/Mahesharunaladi/Java/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mahesharunaladi/Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -350,6 +352,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mahesharunaladi/Java/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mahesharunaladi/Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mahesharunaladi/Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mahesharunaladi/Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mahesharunaladi/Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -360,6 +363,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mahesharunaladi/Java/tree/master/0209-minimum-size-subarray-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mahesharunaladi/Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mahesharunaladi/Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Mahesharunaladi/Java/tree/master/1872-stone-game-viii) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Mahesharunaladi/Java/tree/master/3333-find-the-original-typed-string-ii) |
@@ -378,6 +382,7 @@
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mahesharunaladi/Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mahesharunaladi/Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mahesharunaladi/Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mahesharunaladi/Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
