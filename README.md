@@ -147,6 +147,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mahesharunaladi/Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Mahesharunaladi/Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mahesharunaladi/Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mahesharunaladi/Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -213,6 +214,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mahesharunaladi/Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Mahesharunaladi/Java/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mahesharunaladi/Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Mahesharunaladi/Java/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2347-best-poker-hand](https://github.com/Mahesharunaladi/Java/tree/master/2347-best-poker-hand) |
@@ -301,6 +303,7 @@
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mahesharunaladi/Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Mahesharunaladi/Java/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mahesharunaladi/Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Mahesharunaladi/Java/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahesharunaladi/Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahesharunaladi/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
