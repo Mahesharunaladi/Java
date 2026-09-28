@@ -560,6 +560,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1615-maximal-network-rank](https://github.com/Mahesharunaladi/Java/tree/master/1615-maximal-network-rank) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
