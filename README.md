@@ -218,6 +218,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mahesharunaladi/Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mahesharunaladi/Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2270-number-of-ways-to-split-array](https://github.com/Mahesharunaladi/Java/tree/master/2270-number-of-ways-to-split-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Mahesharunaladi/Java/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2347-best-poker-hand](https://github.com/Mahesharunaladi/Java/tree/master/2347-best-poker-hand) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mahesharunaladi/Java/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -390,6 +391,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mahesharunaladi/Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Mahesharunaladi/Java/tree/master/1872-stone-game-viii) |
+| [2270-number-of-ways-to-split-array](https://github.com/Mahesharunaladi/Java/tree/master/2270-number-of-ways-to-split-array) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Mahesharunaladi/Java/tree/master/3333-find-the-original-typed-string-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Mahesharunaladi/Java/tree/master/3903-smallest-stable-index-i) |
