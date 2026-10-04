@@ -68,6 +68,7 @@
 | [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Mahesharunaladi/Java/tree/master/0168-excel-sheet-column-title) |
 | [0299-bulls-and-cows](https://github.com/Mahesharunaladi/Java/tree/master/0299-bulls-and-cows) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mahesharunaladi/Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Mahesharunaladi/Java/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Mahesharunaladi/Java/tree/master/0940-distinct-subsequences-ii) |
@@ -488,6 +489,7 @@
 | [0088-merge-sorted-array](https://github.com/Mahesharunaladi/Java/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mahesharunaladi/Java/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Mahesharunaladi/Java/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mahesharunaladi/Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Mahesharunaladi/Java/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mahesharunaladi/Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
