@@ -26,6 +26,7 @@
 | [1510-stone-game-iv](https://github.com/Mahesharunaladi/Java/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mahesharunaladi/Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mahesharunaladi/Java/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1872-stone-game-viii](https://github.com/Mahesharunaladi/Java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Mahesharunaladi/Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
@@ -81,6 +82,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mahesharunaladi/Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Mahesharunaladi/Java/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mahesharunaladi/Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mahesharunaladi/Java/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/Mahesharunaladi/Java/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -285,6 +287,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mahesharunaladi/Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mahesharunaladi/Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mahesharunaladi/Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mahesharunaladi/Java/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [2347-best-poker-hand](https://github.com/Mahesharunaladi/Java/tree/master/2347-best-poker-hand) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/Mahesharunaladi/Java/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mahesharunaladi/Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -502,6 +505,7 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Mahesharunaladi/Java/tree/master/0299-bulls-and-cows) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mahesharunaladi/Java/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 | [2347-best-poker-hand](https://github.com/Mahesharunaladi/Java/tree/master/2347-best-poker-hand) |
 | [2833-furthest-point-from-origin](https://github.com/Mahesharunaladi/Java/tree/master/2833-furthest-point-from-origin) |
@@ -607,6 +611,7 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mahesharunaladi/Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mahesharunaladi/Java/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mahesharunaladi/Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [4002-count-valid-sequences](https://github.com/Mahesharunaladi/Java/tree/master/4002-count-valid-sequences) |
 ## Euclidean Algorithm
@@ -707,4 +712,8 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mahesharunaladi/Java/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mahesharunaladi/Java/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 <!---LeetCode Topics End-->
