@@ -45,6 +45,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/Mahesharunaladi/Java/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mahesharunaladi/Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4002-count-valid-sequences](https://github.com/Mahesharunaladi/Java/tree/master/4002-count-valid-sequences) |
 ## String
 |  |
 | ------- |
@@ -607,6 +608,7 @@
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mahesharunaladi/Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mahesharunaladi/Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [4002-count-valid-sequences](https://github.com/Mahesharunaladi/Java/tree/master/4002-count-valid-sequences) |
 ## Euclidean Algorithm
 |  |
 | ------- |
