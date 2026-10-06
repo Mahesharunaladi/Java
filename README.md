@@ -76,6 +76,7 @@
 | [0856-score-of-parentheses](https://github.com/Mahesharunaladi/Java/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mahesharunaladi/Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Mahesharunaladi/Java/tree/master/0940-distinct-subsequences-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Mahesharunaladi/Java/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1096-brace-expansion-ii](https://github.com/Mahesharunaladi/Java/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mahesharunaladi/Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mahesharunaladi/Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -344,6 +345,7 @@
 | [0089-gray-code](https://github.com/Mahesharunaladi/Java/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Mahesharunaladi/Java/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Mahesharunaladi/Java/tree/master/0093-restore-ip-addresses) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Mahesharunaladi/Java/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1096-brace-expansion-ii](https://github.com/Mahesharunaladi/Java/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
@@ -376,6 +378,7 @@
 | ------- |
 | [0337-house-robber-iii](https://github.com/Mahesharunaladi/Java/tree/master/0337-house-robber-iii) |
 | [0897-increasing-order-search-tree](https://github.com/Mahesharunaladi/Java/tree/master/0897-increasing-order-search-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Mahesharunaladi/Java/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1306-jump-game-iii](https://github.com/Mahesharunaladi/Java/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -632,6 +635,7 @@
 | ------- |
 | [0337-house-robber-iii](https://github.com/Mahesharunaladi/Java/tree/master/0337-house-robber-iii) |
 | [0897-increasing-order-search-tree](https://github.com/Mahesharunaladi/Java/tree/master/0897-increasing-order-search-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Mahesharunaladi/Java/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Mahesharunaladi/Java/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -639,6 +643,7 @@
 | ------- |
 | [0337-house-robber-iii](https://github.com/Mahesharunaladi/Java/tree/master/0337-house-robber-iii) |
 | [0897-increasing-order-search-tree](https://github.com/Mahesharunaladi/Java/tree/master/0897-increasing-order-search-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Mahesharunaladi/Java/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
