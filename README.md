@@ -70,6 +70,7 @@
 | [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Mahesharunaladi/Java/tree/master/0168-excel-sheet-column-title) |
 | [0299-bulls-and-cows](https://github.com/Mahesharunaladi/Java/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/Mahesharunaladi/Java/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahesharunaladi/Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Mahesharunaladi/Java/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Mahesharunaladi/Java/tree/master/0678-valid-parenthesis-string) |
@@ -345,6 +346,7 @@
 | [0089-gray-code](https://github.com/Mahesharunaladi/Java/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Mahesharunaladi/Java/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Mahesharunaladi/Java/tree/master/0093-restore-ip-addresses) |
+| [0301-remove-invalid-parentheses](https://github.com/Mahesharunaladi/Java/tree/master/0301-remove-invalid-parentheses) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mahesharunaladi/Java/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1096-brace-expansion-ii](https://github.com/Mahesharunaladi/Java/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -385,6 +387,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Mahesharunaladi/Java/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Mahesharunaladi/Java/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/Mahesharunaladi/Java/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
