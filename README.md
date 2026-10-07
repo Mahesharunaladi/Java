@@ -254,6 +254,7 @@
 | [3457-eat-pizzas](https://github.com/Mahesharunaladi/Java/tree/master/3457-eat-pizzas) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mahesharunaladi/Java/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/Mahesharunaladi/Java/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mahesharunaladi/Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Mahesharunaladi/Java/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/3525-find-x-value-of-array-ii) |
@@ -333,6 +334,7 @@
 | [3457-eat-pizzas](https://github.com/Mahesharunaladi/Java/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Mahesharunaladi/Java/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/Mahesharunaladi/Java/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mahesharunaladi/Java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -471,6 +473,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Mahesharunaladi/Java/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/Mahesharunaladi/Java/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Number Theory
 |  |
 | ------- |
