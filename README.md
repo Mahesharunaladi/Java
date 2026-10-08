@@ -384,6 +384,7 @@
 | [0337-house-robber-iii](https://github.com/Mahesharunaladi/Java/tree/master/0337-house-robber-iii) |
 | [0897-increasing-order-search-tree](https://github.com/Mahesharunaladi/Java/tree/master/0897-increasing-order-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mahesharunaladi/Java/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mahesharunaladi/Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/Mahesharunaladi/Java/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -644,6 +645,7 @@
 | [0337-house-robber-iii](https://github.com/Mahesharunaladi/Java/tree/master/0337-house-robber-iii) |
 | [0897-increasing-order-search-tree](https://github.com/Mahesharunaladi/Java/tree/master/0897-increasing-order-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mahesharunaladi/Java/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mahesharunaladi/Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Mahesharunaladi/Java/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -652,6 +654,7 @@
 | [0337-house-robber-iii](https://github.com/Mahesharunaladi/Java/tree/master/0337-house-robber-iii) |
 | [0897-increasing-order-search-tree](https://github.com/Mahesharunaladi/Java/tree/master/0897-increasing-order-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mahesharunaladi/Java/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mahesharunaladi/Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
