@@ -178,6 +178,7 @@
 | [3457-eat-pizzas](https://github.com/Mahesharunaladi/Java/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Mahesharunaladi/Java/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mahesharunaladi/Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mahesharunaladi/Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mahesharunaladi/Java/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mahesharunaladi/Java/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -352,6 +354,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Mahesharunaladi/Java/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mahesharunaladi/Java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
