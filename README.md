@@ -257,6 +257,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mahesharunaladi/Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mahesharunaladi/Java/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Mahesharunaladi/Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahesharunaladi/Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mahesharunaladi/Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahesharunaladi/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -315,6 +316,7 @@
 | [2347-best-poker-hand](https://github.com/Mahesharunaladi/Java/tree/master/2347-best-poker-hand) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/Mahesharunaladi/Java/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Mahesharunaladi/Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mahesharunaladi/Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahesharunaladi/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3044-most-frequent-prime](https://github.com/Mahesharunaladi/Java/tree/master/3044-most-frequent-prime) |
@@ -616,6 +618,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Mahesharunaladi/Java/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Mahesharunaladi/Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/3525-find-x-value-of-array-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -722,6 +725,7 @@
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Mahesharunaladi/Java/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Mahesharunaladi/Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Queue
 |  |
 | ------- |
