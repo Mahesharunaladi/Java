@@ -258,6 +258,7 @@
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mahesharunaladi/Java/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Mahesharunaladi/Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2917-find-the-k-or-of-an-array](https://github.com/Mahesharunaladi/Java/tree/master/2917-find-the-k-or-of-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahesharunaladi/Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mahesharunaladi/Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahesharunaladi/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -641,6 +642,7 @@
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/Mahesharunaladi/Java/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2741-special-permutations](https://github.com/Mahesharunaladi/Java/tree/master/2741-special-permutations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2917-find-the-k-or-of-an-array](https://github.com/Mahesharunaladi/Java/tree/master/2917-find-the-k-or-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mahesharunaladi/Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mahesharunaladi/Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mahesharunaladi/Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
