@@ -594,6 +594,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mahesharunaladi/Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahesharunaladi/Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3887-incremental-even-weighted-cycle-queries](https://github.com/Mahesharunaladi/Java/tree/master/3887-incremental-even-weighted-cycle-queries) |
 ## Minimax
 |  |
 | ------- |
@@ -678,6 +679,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mahesharunaladi/Java/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1615-maximal-network-rank](https://github.com/Mahesharunaladi/Java/tree/master/1615-maximal-network-rank) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3887-incremental-even-weighted-cycle-queries](https://github.com/Mahesharunaladi/Java/tree/master/3887-incremental-even-weighted-cycle-queries) |
 ## Shortest Path
 |  |
 | ------- |
