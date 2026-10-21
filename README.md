@@ -112,6 +112,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Mahesharunaladi/Java/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Mahesharunaladi/Java/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -471,6 +472,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/Mahesharunaladi/Java/tree/master/2270-number-of-ways-to-split-array) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Mahesharunaladi/Java/tree/master/3333-find-the-original-typed-string-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Mahesharunaladi/Java/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3903-smallest-stable-index-i](https://github.com/Mahesharunaladi/Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mahesharunaladi/Java/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -636,6 +638,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mahesharunaladi/Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Mahesharunaladi/Java/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Mahesharunaladi/Java/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Segment Tree
 |  |
 | ------- |
