@@ -300,6 +300,7 @@
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mahesharunaladi/Java/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3866-first-unique-even-element](https://github.com/Mahesharunaladi/Java/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mahesharunaladi/Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Mahesharunaladi/Java/tree/master/3886-sum-of-sortable-integers) |
@@ -346,6 +347,7 @@
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mahesharunaladi/Java/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3866-first-unique-even-element](https://github.com/Mahesharunaladi/Java/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -584,6 +586,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Mahesharunaladi/Java/tree/master/2833-furthest-point-from-origin) |
 | [3044-most-frequent-prime](https://github.com/Mahesharunaladi/Java/tree/master/3044-most-frequent-prime) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3866-first-unique-even-element](https://github.com/Mahesharunaladi/Java/tree/master/3866-first-unique-even-element) |
 ## Geometry
 |  |
 | ------- |
