@@ -187,6 +187,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3457-eat-pizzas](https://github.com/Mahesharunaladi/Java/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Mahesharunaladi/Java/tree/master/3458-select-k-disjoint-special-substrings) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/Mahesharunaladi/Java/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mahesharunaladi/Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Mahesharunaladi/Java/tree/master/3724-minimum-operations-to-transform-array) |
@@ -294,6 +295,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mahesharunaladi/Java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mahesharunaladi/Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mahesharunaladi/Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/Mahesharunaladi/Java/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mahesharunaladi/Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mahesharunaladi/Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Mahesharunaladi/Java/tree/master/3724-minimum-operations-to-transform-array) |
@@ -383,6 +385,7 @@
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Mahesharunaladi/Java/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mahesharunaladi/Java/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mahesharunaladi/Java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/Mahesharunaladi/Java/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/Mahesharunaladi/Java/tree/master/3886-sum-of-sortable-integers) |
@@ -538,6 +541,7 @@
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Mahesharunaladi/Java/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Mahesharunaladi/Java/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/Mahesharunaladi/Java/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Number Theory
 |  |
 | ------- |
@@ -577,6 +581,7 @@
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Mahesharunaladi/Java/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mahesharunaladi/Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/Mahesharunaladi/Java/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Counting
 |  |
