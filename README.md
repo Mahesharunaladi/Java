@@ -45,6 +45,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mahesharunaladi/Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mahesharunaladi/Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3648-minimum-sensors-to-cover-grid](https://github.com/Mahesharunaladi/Java/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mahesharunaladi/Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/Mahesharunaladi/Java/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3870-count-commas-in-range](https://github.com/Mahesharunaladi/Java/tree/master/3870-count-commas-in-range) |
