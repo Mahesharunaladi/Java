@@ -34,6 +34,7 @@
 | [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Mahesharunaladi/Java/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mahesharunaladi/Java/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2409-count-days-spent-together](https://github.com/Mahesharunaladi/Java/tree/master/2409-count-days-spent-together) |
 | [3044-most-frequent-prime](https://github.com/Mahesharunaladi/Java/tree/master/3044-most-frequent-prime) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mahesharunaladi/Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/Mahesharunaladi/Java/tree/master/3334-find-the-maximum-factor-score-of-array) |
@@ -100,6 +101,7 @@
 | [1927-sum-game](https://github.com/Mahesharunaladi/Java/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mahesharunaladi/Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2409-count-days-spent-together](https://github.com/Mahesharunaladi/Java/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mahesharunaladi/Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/Mahesharunaladi/Java/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mahesharunaladi/Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
