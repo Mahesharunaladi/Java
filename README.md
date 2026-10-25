@@ -242,6 +242,7 @@
 | [0835-image-overlap](https://github.com/Mahesharunaladi/Java/tree/master/0835-image-overlap) |
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Mahesharunaladi/Java/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1254-number-of-closed-islands](https://github.com/Mahesharunaladi/Java/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/Mahesharunaladi/Java/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Mahesharunaladi/Java/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Mahesharunaladi/Java/tree/master/1331-rank-transform-of-an-array) |
@@ -421,6 +422,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Mahesharunaladi/Java/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Mahesharunaladi/Java/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/Mahesharunaladi/Java/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Mahesharunaladi/Java/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Mahesharunaladi/Java/tree/master/1572-matrix-diagonal-sum) |
@@ -448,6 +450,7 @@
 | [0897-increasing-order-search-tree](https://github.com/Mahesharunaladi/Java/tree/master/0897-increasing-order-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Mahesharunaladi/Java/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mahesharunaladi/Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/Mahesharunaladi/Java/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Mahesharunaladi/Java/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -456,6 +459,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Mahesharunaladi/Java/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Mahesharunaladi/Java/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Mahesharunaladi/Java/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Mahesharunaladi/Java/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -614,6 +618,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Mahesharunaladi/Java/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mahesharunaladi/Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahesharunaladi/Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
