@@ -304,6 +304,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mahesharunaladi/Java/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mahesharunaladi/Java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mahesharunaladi/Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mahesharunaladi/Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mahesharunaladi/Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Mahesharunaladi/Java/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mahesharunaladi/Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -437,6 +438,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mahesharunaladi/Java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mahesharunaladi/Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mahesharunaladi/Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -459,6 +461,7 @@
 | [1306-jump-game-iii](https://github.com/Mahesharunaladi/Java/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mahesharunaladi/Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -469,6 +472,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mahesharunaladi/Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mahesharunaladi/Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -628,6 +632,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mahesharunaladi/Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahesharunaladi/Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mahesharunaladi/Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/Mahesharunaladi/Java/tree/master/3887-incremental-even-weighted-cycle-queries) |
 ## Minimax
 |  |
