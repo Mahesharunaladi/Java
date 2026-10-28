@@ -172,6 +172,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Mahesharunaladi/Java/tree/master/3524-find-x-value-of-array-i) |
 | [3620-network-recovery-pathways](https://github.com/Mahesharunaladi/Java/tree/master/3620-network-recovery-pathways) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/Mahesharunaladi/Java/tree/master/3883-count-non-decreasing-arrays-with-given-digit-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -321,6 +322,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Mahesharunaladi/Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/Mahesharunaladi/Java/tree/master/3883-count-non-decreasing-arrays-with-given-digit-sums) |
 | [3886-sum-of-sortable-integers](https://github.com/Mahesharunaladi/Java/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Mahesharunaladi/Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mahesharunaladi/Java/tree/master/3904-smallest-stable-index-ii) |
@@ -506,6 +508,7 @@
 | [3333-find-the-original-typed-string-ii](https://github.com/Mahesharunaladi/Java/tree/master/3333-find-the-original-typed-string-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Mahesharunaladi/Java/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
+| [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/Mahesharunaladi/Java/tree/master/3883-count-non-decreasing-arrays-with-given-digit-sums) |
 | [3903-smallest-stable-index-i](https://github.com/Mahesharunaladi/Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mahesharunaladi/Java/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
