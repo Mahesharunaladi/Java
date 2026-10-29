@@ -115,6 +115,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/Mahesharunaladi/Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Mahesharunaladi/Java/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Mahesharunaladi/Java/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Simulation
@@ -318,6 +319,7 @@
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mahesharunaladi/Java/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3866-first-unique-even-element](https://github.com/Mahesharunaladi/Java/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mahesharunaladi/Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -469,6 +471,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mahesharunaladi/Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -684,6 +687,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mahesharunaladi/Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Mahesharunaladi/Java/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Mahesharunaladi/Java/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Segment Tree
 |  |
@@ -694,6 +698,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Mahesharunaladi/Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/3525-find-x-value-of-array-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -721,6 +726,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mahesharunaladi/Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mahesharunaladi/Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mahesharunaladi/Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bitmask
 |  |
@@ -770,6 +776,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mahesharunaladi/Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Mahesharunaladi/Java/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -812,6 +819,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Mahesharunaladi/Java/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Mahesharunaladi/Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Queue
 |  |
 | ------- |
