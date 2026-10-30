@@ -205,6 +205,7 @@
 | [3724-minimum-operations-to-transform-array](https://github.com/Mahesharunaladi/Java/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3971-maximum-total-value](https://github.com/Mahesharunaladi/Java/tree/master/3971-maximum-total-value) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mahesharunaladi/Java/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -333,6 +334,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/Mahesharunaladi/Java/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Mahesharunaladi/Java/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3971-maximum-total-value](https://github.com/Mahesharunaladi/Java/tree/master/3971-maximum-total-value) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mahesharunaladi/Java/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -414,6 +416,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/Mahesharunaladi/Java/tree/master/3886-sum-of-sortable-integers) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mahesharunaladi/Java/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Backtracking
 |  |
 | ------- |
