@@ -54,6 +54,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Mahesharunaladi/Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Mahesharunaladi/Java/tree/master/3886-sum-of-sortable-integers) |
+| [3971-maximum-total-value](https://github.com/Mahesharunaladi/Java/tree/master/3971-maximum-total-value) |
 | [4002-count-valid-sequences](https://github.com/Mahesharunaladi/Java/tree/master/4002-count-valid-sequences) |
 ## String
 |  |
@@ -203,6 +204,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mahesharunaladi/Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Mahesharunaladi/Java/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3971-maximum-total-value](https://github.com/Mahesharunaladi/Java/tree/master/3971-maximum-total-value) |
 ## Recursion
 |  |
 | ------- |
@@ -330,6 +332,7 @@
 | [3903-smallest-stable-index-i](https://github.com/Mahesharunaladi/Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mahesharunaladi/Java/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Mahesharunaladi/Java/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3971-maximum-total-value](https://github.com/Mahesharunaladi/Java/tree/master/3971-maximum-total-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -537,6 +540,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3620-network-recovery-pathways](https://github.com/Mahesharunaladi/Java/tree/master/3620-network-recovery-pathways) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/Mahesharunaladi/Java/tree/master/3733-minimum-time-to-complete-all-deliveries) |
+| [3971-maximum-total-value](https://github.com/Mahesharunaladi/Java/tree/master/3971-maximum-total-value) |
 ## Stack
 |  |
 | ------- |
