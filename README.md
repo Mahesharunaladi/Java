@@ -20,6 +20,7 @@
 | [0400-nth-digit](https://github.com/Mahesharunaladi/Java/tree/master/0400-nth-digit) |
 | [0447-number-of-boomerangs](https://github.com/Mahesharunaladi/Java/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mahesharunaladi/Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mahesharunaladi/Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Mahesharunaladi/Java/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Mahesharunaladi/Java/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Mahesharunaladi/Java/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -252,6 +253,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mahesharunaladi/Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Mahesharunaladi/Java/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/Mahesharunaladi/Java/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mahesharunaladi/Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Mahesharunaladi/Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0835-image-overlap](https://github.com/Mahesharunaladi/Java/tree/master/0835-image-overlap) |
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
@@ -395,6 +397,7 @@
 | [0148-sort-list](https://github.com/Mahesharunaladi/Java/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Mahesharunaladi/Java/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/Mahesharunaladi/Java/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mahesharunaladi/Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Mahesharunaladi/Java/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Mahesharunaladi/Java/tree/master/1288-remove-covered-intervals) |
