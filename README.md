@@ -178,6 +178,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Mahesharunaladi/Java/tree/master/3524-find-x-value-of-array-i) |
 | [3620-network-recovery-pathways](https://github.com/Mahesharunaladi/Java/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/Mahesharunaladi/Java/tree/master/3665-twisted-mirror-path-count) |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Mahesharunaladi/Java/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/Mahesharunaladi/Java/tree/master/3883-count-non-decreasing-arrays-with-given-digit-sums) |
 ## Greedy
@@ -332,6 +333,7 @@
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mahesharunaladi/Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mahesharunaladi/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Mahesharunaladi/Java/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mahesharunaladi/Java/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
