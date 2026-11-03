@@ -331,6 +331,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mahesharunaladi/Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mahesharunaladi/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mahesharunaladi/Java/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -386,6 +387,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mahesharunaladi/Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mahesharunaladi/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mahesharunaladi/Java/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3866-first-unique-even-element](https://github.com/Mahesharunaladi/Java/tree/master/3866-first-unique-even-element) |
@@ -532,6 +534,7 @@
 | [1872-stone-game-viii](https://github.com/Mahesharunaladi/Java/tree/master/1872-stone-game-viii) |
 | [2270-number-of-ways-to-split-array](https://github.com/Mahesharunaladi/Java/tree/master/2270-number-of-ways-to-split-array) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Mahesharunaladi/Java/tree/master/3333-find-the-original-typed-string-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mahesharunaladi/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Mahesharunaladi/Java/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/Mahesharunaladi/Java/tree/master/3883-count-non-decreasing-arrays-with-given-digit-sums) |
@@ -655,6 +658,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Mahesharunaladi/Java/tree/master/2833-furthest-point-from-origin) |
 | [3044-most-frequent-prime](https://github.com/Mahesharunaladi/Java/tree/master/3044-most-frequent-prime) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mahesharunaladi/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3866-first-unique-even-element](https://github.com/Mahesharunaladi/Java/tree/master/3866-first-unique-even-element) |
 ## Geometry
 |  |
@@ -711,6 +715,7 @@
 | [0148-sort-list](https://github.com/Mahesharunaladi/Java/tree/master/0148-sort-list) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mahesharunaladi/Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Mahesharunaladi/Java/tree/master/2407-longest-increasing-subsequence-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mahesharunaladi/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Mahesharunaladi/Java/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
@@ -722,12 +727,14 @@
 | [2407-longest-increasing-subsequence-ii](https://github.com/Mahesharunaladi/Java/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Mahesharunaladi/Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Mahesharunaladi/Java/tree/master/3525-find-x-value-of-array-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mahesharunaladi/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Mahesharunaladi/Java/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mahesharunaladi/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bubble Sort
 |  |
