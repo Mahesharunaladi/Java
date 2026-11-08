@@ -96,6 +96,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mahesharunaladi/Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mahesharunaladi/Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Mahesharunaladi/Java/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1268-search-suggestions-system](https://github.com/Mahesharunaladi/Java/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mahesharunaladi/Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mahesharunaladi/Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Mahesharunaladi/Java/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -266,6 +267,7 @@
 | [1254-number-of-closed-islands](https://github.com/Mahesharunaladi/Java/tree/master/1254-number-of-closed-islands) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Mahesharunaladi/Java/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1267-count-servers-that-communicate](https://github.com/Mahesharunaladi/Java/tree/master/1267-count-servers-that-communicate) |
+| [1268-search-suggestions-system](https://github.com/Mahesharunaladi/Java/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Mahesharunaladi/Java/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Mahesharunaladi/Java/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Mahesharunaladi/Java/tree/master/1331-rank-transform-of-an-array) |
@@ -414,6 +416,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mahesharunaladi/Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/Mahesharunaladi/Java/tree/master/1096-brace-expansion-ii) |
+| [1268-search-suggestions-system](https://github.com/Mahesharunaladi/Java/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Mahesharunaladi/Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mahesharunaladi/Java/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -564,6 +567,7 @@
 | [0400-nth-digit](https://github.com/Mahesharunaladi/Java/tree/master/0400-nth-digit) |
 | [0456-132-pattern](https://github.com/Mahesharunaladi/Java/tree/master/0456-132-pattern) |
 | [0888-fair-candy-swap](https://github.com/Mahesharunaladi/Java/tree/master/0888-fair-candy-swap) |
+| [1268-search-suggestions-system](https://github.com/Mahesharunaladi/Java/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mahesharunaladi/Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mahesharunaladi/Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -612,6 +616,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Mahesharunaladi/Java/tree/master/0264-ugly-number-ii) |
+| [1268-search-suggestions-system](https://github.com/Mahesharunaladi/Java/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1882-process-tasks-using-servers](https://github.com/Mahesharunaladi/Java/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mahesharunaladi/Java/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -848,6 +853,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Mahesharunaladi/Java/tree/master/0139-word-break) |
+| [1268-search-suggestions-system](https://github.com/Mahesharunaladi/Java/tree/master/1268-search-suggestions-system) |
 ## Memoization
 |  |
 | ------- |
