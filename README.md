@@ -131,6 +131,7 @@
 | [0043-multiply-strings](https://github.com/Mahesharunaladi/Java/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Mahesharunaladi/Java/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Mahesharunaladi/Java/tree/master/0068-text-justification) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mahesharunaladi/Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mahesharunaladi/Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mahesharunaladi/Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -280,6 +281,7 @@
 | [1563-stone-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mahesharunaladi/Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/Mahesharunaladi/Java/tree/master/1572-matrix-diagonal-sum) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mahesharunaladi/Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Mahesharunaladi/Java/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mahesharunaladi/Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mahesharunaladi/Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -611,6 +613,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Mahesharunaladi/Java/tree/master/0456-132-pattern) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mahesharunaladi/Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Heap (Priority Queue)
 |  |
@@ -618,6 +621,7 @@
 | [0264-ugly-number-ii](https://github.com/Mahesharunaladi/Java/tree/master/0264-ugly-number-ii) |
 | [1268-search-suggestions-system](https://github.com/Mahesharunaladi/Java/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mahesharunaladi/Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Mahesharunaladi/Java/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mahesharunaladi/Java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Mahesharunaladi/Java/tree/master/2344-minimum-deletions-to-make-array-divisible) |
