@@ -187,6 +187,7 @@
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Mahesharunaladi/Java/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/Mahesharunaladi/Java/tree/master/3883-count-non-decreasing-arrays-with-given-digit-sums) |
+| [3965-finish-time-of-tasks-i](https://github.com/Mahesharunaladi/Java/tree/master/3965-finish-time-of-tasks-i) |
 ## Greedy
 |  |
 | ------- |
@@ -361,6 +362,7 @@
 | [3903-smallest-stable-index-i](https://github.com/Mahesharunaladi/Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mahesharunaladi/Java/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Mahesharunaladi/Java/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3965-finish-time-of-tasks-i](https://github.com/Mahesharunaladi/Java/tree/master/3965-finish-time-of-tasks-i) |
 | [3971-maximum-total-value](https://github.com/Mahesharunaladi/Java/tree/master/3971-maximum-total-value) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mahesharunaladi/Java/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
@@ -520,6 +522,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mahesharunaladi/Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3965-finish-time-of-tasks-i](https://github.com/Mahesharunaladi/Java/tree/master/3965-finish-time-of-tasks-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -852,6 +855,7 @@
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Mahesharunaladi/Java/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3965-finish-time-of-tasks-i](https://github.com/Mahesharunaladi/Java/tree/master/3965-finish-time-of-tasks-i) |
 ## Binary Tree
 |  |
 | ------- |
