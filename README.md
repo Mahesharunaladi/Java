@@ -211,6 +211,7 @@
 | [3457-eat-pizzas](https://github.com/Mahesharunaladi/Java/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Mahesharunaladi/Java/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Mahesharunaladi/Java/tree/master/3645-maximum-total-from-optimal-activation-order) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/Mahesharunaladi/Java/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mahesharunaladi/Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Mahesharunaladi/Java/tree/master/3724-minimum-operations-to-transform-array) |
@@ -339,6 +340,7 @@
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Mahesharunaladi/Java/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3665-twisted-mirror-path-count](https://github.com/Mahesharunaladi/Java/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Mahesharunaladi/Java/tree/master/3693-climbing-stairs-ii) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/Mahesharunaladi/Java/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mahesharunaladi/Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mahesharunaladi/Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Mahesharunaladi/Java/tree/master/3724-minimum-operations-to-transform-array) |
@@ -446,6 +448,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mahesharunaladi/Java/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mahesharunaladi/Java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Mahesharunaladi/Java/tree/master/3645-maximum-total-from-optimal-activation-order) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/Mahesharunaladi/Java/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mahesharunaladi/Java/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/Mahesharunaladi/Java/tree/master/3886-sum-of-sortable-integers) |
@@ -711,6 +714,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mahesharunaladi/Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahesharunaladi/Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mahesharunaladi/Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/Mahesharunaladi/Java/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/Mahesharunaladi/Java/tree/master/3887-incremental-even-weighted-cycle-queries) |
 ## Minimax
 |  |
