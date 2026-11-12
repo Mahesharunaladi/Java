@@ -53,6 +53,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mahesharunaladi/Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/Mahesharunaladi/Java/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mahesharunaladi/Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Mahesharunaladi/Java/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Mahesharunaladi/Java/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Mahesharunaladi/Java/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mahesharunaladi/Java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -217,6 +218,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mahesharunaladi/Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Mahesharunaladi/Java/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Mahesharunaladi/Java/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3971-maximum-total-value](https://github.com/Mahesharunaladi/Java/tree/master/3971-maximum-total-value) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Mahesharunaladi/Java/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Recursion
