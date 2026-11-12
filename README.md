@@ -114,6 +114,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Mahesharunaladi/Java/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mahesharunaladi/Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mahesharunaladi/Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Mahesharunaladi/Java/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Mahesharunaladi/Java/tree/master/3333-find-the-original-typed-string-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -208,6 +209,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mahesharunaladi/Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mahesharunaladi/Java/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Mahesharunaladi/Java/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3457-eat-pizzas](https://github.com/Mahesharunaladi/Java/tree/master/3457-eat-pizzas) |
