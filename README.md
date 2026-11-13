@@ -330,6 +330,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mahesharunaladi/Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mahesharunaladi/Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahesharunaladi/Java/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mahesharunaladi/Java/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3457-eat-pizzas](https://github.com/Mahesharunaladi/Java/tree/master/3457-eat-pizzas) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mahesharunaladi/Java/tree/master/3471-find-the-largest-almost-missing-integer) |
