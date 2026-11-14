@@ -181,6 +181,7 @@
 | [3333-find-the-original-typed-string-ii](https://github.com/Mahesharunaladi/Java/tree/master/3333-find-the-original-typed-string-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mahesharunaladi/Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3366-minimum-array-sum](https://github.com/Mahesharunaladi/Java/tree/master/3366-minimum-array-sum) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Mahesharunaladi/Java/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mahesharunaladi/Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Mahesharunaladi/Java/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mahesharunaladi/Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -459,6 +460,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahesharunaladi/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Mahesharunaladi/Java/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Mahesharunaladi/Java/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Mahesharunaladi/Java/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mahesharunaladi/Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Mahesharunaladi/Java/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3457-eat-pizzas](https://github.com/Mahesharunaladi/Java/tree/master/3457-eat-pizzas) |
@@ -538,6 +540,7 @@
 | [1306-jump-game-iii](https://github.com/Mahesharunaladi/Java/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Mahesharunaladi/Java/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mahesharunaladi/Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Mahesharunaladi/Java/tree/master/3965-finish-time-of-tasks-i) |
@@ -878,6 +881,7 @@
 | [1609-even-odd-tree](https://github.com/Mahesharunaladi/Java/tree/master/1609-even-odd-tree) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Mahesharunaladi/Java/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Mahesharunaladi/Java/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Mahesharunaladi/Java/tree/master/3965-finish-time-of-tasks-i) |
 ## Binary Tree
