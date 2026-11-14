@@ -43,6 +43,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mahesharunaladi/Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mahesharunaladi/Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Mahesharunaladi/Java/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mahesharunaladi/Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Mahesharunaladi/Java/tree/master/3524-find-x-value-of-array-i) |
@@ -825,6 +826,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Mahesharunaladi/Java/tree/master/2917-find-the-k-or-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mahesharunaladi/Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Mahesharunaladi/Java/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mahesharunaladi/Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mahesharunaladi/Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mahesharunaladi/Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
