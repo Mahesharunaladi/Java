@@ -335,6 +335,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mahesharunaladi/Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mahesharunaladi/Java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3366-minimum-array-sum](https://github.com/Mahesharunaladi/Java/tree/master/3366-minimum-array-sum) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/Mahesharunaladi/Java/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mahesharunaladi/Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahesharunaladi/Java/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mahesharunaladi/Java/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -415,6 +416,7 @@
 | [3044-most-frequent-prime](https://github.com/Mahesharunaladi/Java/tree/master/3044-most-frequent-prime) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mahesharunaladi/Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Mahesharunaladi/Java/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/Mahesharunaladi/Java/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Mahesharunaladi/Java/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mahesharunaladi/Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mahesharunaladi/Java/tree/master/3483-unique-3-digit-even-numbers) |
@@ -524,6 +526,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mahesharunaladi/Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3044-most-frequent-prime](https://github.com/Mahesharunaladi/Java/tree/master/3044-most-frequent-prime) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mahesharunaladi/Java/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/Mahesharunaladi/Java/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mahesharunaladi/Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -725,6 +728,7 @@
 | [2347-best-poker-hand](https://github.com/Mahesharunaladi/Java/tree/master/2347-best-poker-hand) |
 | [2833-furthest-point-from-origin](https://github.com/Mahesharunaladi/Java/tree/master/2833-furthest-point-from-origin) |
 | [3044-most-frequent-prime](https://github.com/Mahesharunaladi/Java/tree/master/3044-most-frequent-prime) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/Mahesharunaladi/Java/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mahesharunaladi/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3866-first-unique-even-element](https://github.com/Mahesharunaladi/Java/tree/master/3866-first-unique-even-element) |
