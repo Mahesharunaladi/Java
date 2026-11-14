@@ -545,6 +545,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Mahesharunaladi/Java/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mahesharunaladi/Java/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mahesharunaladi/Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Mahesharunaladi/Java/tree/master/3965-finish-time-of-tasks-i) |
@@ -560,6 +561,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1609-even-odd-tree](https://github.com/Mahesharunaladi/Java/tree/master/1609-even-odd-tree) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mahesharunaladi/Java/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mahesharunaladi/Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mahesharunaladi/Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sliding Window
@@ -888,6 +890,7 @@
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Mahesharunaladi/Java/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Mahesharunaladi/Java/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mahesharunaladi/Java/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mahesharunaladi/Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Mahesharunaladi/Java/tree/master/3965-finish-time-of-tasks-i) |
 ## Binary Tree
