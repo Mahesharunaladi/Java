@@ -217,6 +217,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mahesharunaladi/Java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mahesharunaladi/Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mahesharunaladi/Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mahesharunaladi/Java/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mahesharunaladi/Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mahesharunaladi/Java/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Mahesharunaladi/Java/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
@@ -322,6 +323,7 @@
 | [2407-longest-increasing-subsequence-ii](https://github.com/Mahesharunaladi/Java/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mahesharunaladi/Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Mahesharunaladi/Java/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mahesharunaladi/Java/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/Mahesharunaladi/Java/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2741-special-permutations](https://github.com/Mahesharunaladi/Java/tree/master/2741-special-permutations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mahesharunaladi/Java/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -467,6 +469,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mahesharunaladi/Java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Mahesharunaladi/Java/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mahesharunaladi/Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mahesharunaladi/Java/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mahesharunaladi/Java/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahesharunaladi/Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahesharunaladi/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
