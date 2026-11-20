@@ -183,6 +183,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mahesharunaladi/Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2741-special-permutations](https://github.com/Mahesharunaladi/Java/tree/master/2741-special-permutations) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mahesharunaladi/Java/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mahesharunaladi/Java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Mahesharunaladi/Java/tree/master/3333-find-the-original-typed-string-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mahesharunaladi/Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -336,6 +337,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mahesharunaladi/Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahesharunaladi/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Mahesharunaladi/Java/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mahesharunaladi/Java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3044-most-frequent-prime](https://github.com/Mahesharunaladi/Java/tree/master/3044-most-frequent-prime) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mahesharunaladi/Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Mahesharunaladi/Java/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -473,6 +475,7 @@
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mahesharunaladi/Java/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahesharunaladi/Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahesharunaladi/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mahesharunaladi/Java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Mahesharunaladi/Java/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Mahesharunaladi/Java/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Mahesharunaladi/Java/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
