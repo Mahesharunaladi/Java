@@ -35,6 +35,7 @@
 | [1872-stone-game-viii](https://github.com/Mahesharunaladi/Java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Mahesharunaladi/Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Mahesharunaladi/Java/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Mahesharunaladi/Java/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mahesharunaladi/Java/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2409-count-days-spent-together](https://github.com/Mahesharunaladi/Java/tree/master/2409-count-days-spent-together) |
@@ -110,6 +111,7 @@
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/Mahesharunaladi/Java/tree/master/1927-sum-game) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mahesharunaladi/Java/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Mahesharunaladi/Java/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mahesharunaladi/Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/Mahesharunaladi/Java/tree/master/2409-count-days-spent-together) |
@@ -314,6 +316,7 @@
 | [1882-process-tasks-using-servers](https://github.com/Mahesharunaladi/Java/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/Mahesharunaladi/Java/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mahesharunaladi/Java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Mahesharunaladi/Java/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mahesharunaladi/Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Mahesharunaladi/Java/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -529,6 +532,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Mahesharunaladi/Java/tree/master/1572-matrix-diagonal-sum) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Mahesharunaladi/Java/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mahesharunaladi/Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/Mahesharunaladi/Java/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [3044-most-frequent-prime](https://github.com/Mahesharunaladi/Java/tree/master/3044-most-frequent-prime) |
