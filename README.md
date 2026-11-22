@@ -182,6 +182,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mahesharunaladi/Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/Mahesharunaladi/Java/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Mahesharunaladi/Java/tree/master/1872-stone-game-viii) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mahesharunaladi/Java/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mahesharunaladi/Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Mahesharunaladi/Java/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mahesharunaladi/Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -319,6 +320,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mahesharunaladi/Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mahesharunaladi/Java/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/Mahesharunaladi/Java/tree/master/2126-destroying-asteroids) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mahesharunaladi/Java/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mahesharunaladi/Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mahesharunaladi/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Mahesharunaladi/Java/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -569,6 +571,7 @@
 | [1267-count-servers-that-communicate](https://github.com/Mahesharunaladi/Java/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Mahesharunaladi/Java/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahesharunaladi/Java/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mahesharunaladi/Java/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mahesharunaladi/Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Mahesharunaladi/Java/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Mahesharunaladi/Java/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
@@ -879,6 +882,7 @@
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mahesharunaladi/Java/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1615-maximal-network-rank](https://github.com/Mahesharunaladi/Java/tree/master/1615-maximal-network-rank) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mahesharunaladi/Java/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mahesharunaladi/Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Mahesharunaladi/Java/tree/master/3620-network-recovery-pathways) |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/Mahesharunaladi/Java/tree/master/3887-incremental-even-weighted-cycle-queries) |
@@ -1039,5 +1043,14 @@
 ## Topological Sort
 |  |
 | ------- |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mahesharunaladi/Java/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [3620-network-recovery-pathways](https://github.com/Mahesharunaladi/Java/tree/master/3620-network-recovery-pathways) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mahesharunaladi/Java/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mahesharunaladi/Java/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
