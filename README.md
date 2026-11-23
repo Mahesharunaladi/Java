@@ -24,6 +24,7 @@
 | [0507-perfect-number](https://github.com/Mahesharunaladi/Java/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Mahesharunaladi/Java/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Mahesharunaladi/Java/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mahesharunaladi/Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Mahesharunaladi/Java/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Mahesharunaladi/Java/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mahesharunaladi/Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -303,6 +304,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Mahesharunaladi/Java/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mahesharunaladi/Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/Mahesharunaladi/Java/tree/master/1340-jump-game-v) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mahesharunaladi/Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mahesharunaladi/Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Mahesharunaladi/Java/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mahesharunaladi/Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -619,6 +621,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mahesharunaladi/Java/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mahesharunaladi/Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mahesharunaladi/Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mahesharunaladi/Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mahesharunaladi/Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1054,4 +1057,12 @@
 |  |
 | ------- |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mahesharunaladi/Java/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mahesharunaladi/Java/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mahesharunaladi/Java/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
