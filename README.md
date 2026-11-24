@@ -47,6 +47,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mahesharunaladi/Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Mahesharunaladi/Java/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mahesharunaladi/Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mahesharunaladi/Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Mahesharunaladi/Java/tree/master/3524-find-x-value-of-array-i) |
@@ -361,6 +362,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/Mahesharunaladi/Java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3366-minimum-array-sum](https://github.com/Mahesharunaladi/Java/tree/master/3366-minimum-array-sum) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Mahesharunaladi/Java/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mahesharunaladi/Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mahesharunaladi/Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahesharunaladi/Java/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mahesharunaladi/Java/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -558,6 +560,7 @@
 | [3044-most-frequent-prime](https://github.com/Mahesharunaladi/Java/tree/master/3044-most-frequent-prime) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mahesharunaladi/Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Mahesharunaladi/Java/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mahesharunaladi/Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mahesharunaladi/Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -614,6 +617,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mahesharunaladi/Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mahesharunaladi/Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mahesharunaladi/Java/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mahesharunaladi/Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahesharunaladi/Java/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mahesharunaladi/Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Mahesharunaladi/Java/tree/master/3694-distinct-points-reachable-after-substring-removal) |
@@ -720,6 +724,7 @@
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/Mahesharunaladi/Java/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mahesharunaladi/Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mahesharunaladi/Java/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Quicksort
 |  |
 | ------- |
