@@ -236,6 +236,7 @@
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Mahesharunaladi/Java/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Mahesharunaladi/Java/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Mahesharunaladi/Java/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3457-eat-pizzas](https://github.com/Mahesharunaladi/Java/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Mahesharunaladi/Java/tree/master/3458-select-k-disjoint-special-substrings) |
@@ -365,6 +366,7 @@
 | [3366-minimum-array-sum](https://github.com/Mahesharunaladi/Java/tree/master/3366-minimum-array-sum) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Mahesharunaladi/Java/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Mahesharunaladi/Java/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Mahesharunaladi/Java/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mahesharunaladi/Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahesharunaladi/Java/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mahesharunaladi/Java/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -499,6 +501,7 @@
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Mahesharunaladi/Java/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Mahesharunaladi/Java/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Mahesharunaladi/Java/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Mahesharunaladi/Java/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mahesharunaladi/Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Mahesharunaladi/Java/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3457-eat-pizzas](https://github.com/Mahesharunaladi/Java/tree/master/3457-eat-pizzas) |
@@ -621,6 +624,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mahesharunaladi/Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mahesharunaladi/Java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Mahesharunaladi/Java/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Mahesharunaladi/Java/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahesharunaladi/Java/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mahesharunaladi/Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Mahesharunaladi/Java/tree/master/3694-distinct-points-reachable-after-substring-removal) |
@@ -637,6 +641,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/Mahesharunaladi/Java/tree/master/2270-number-of-ways-to-split-array) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Mahesharunaladi/Java/tree/master/3333-find-the-original-typed-string-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mahesharunaladi/Java/tree/master/3364-minimum-positive-sum-subarray) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Mahesharunaladi/Java/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Mahesharunaladi/Java/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mahesharunaladi/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -664,6 +669,7 @@
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Mahesharunaladi/Java/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mahesharunaladi/Java/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mahesharunaladi/Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Mahesharunaladi/Java/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mahesharunaladi/Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3620-network-recovery-pathways](https://github.com/Mahesharunaladi/Java/tree/master/3620-network-recovery-pathways) |
