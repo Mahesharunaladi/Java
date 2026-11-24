@@ -3,15 +3,14 @@ class Solution {
         int n = n=coins.length;
         Arrays.sort(coins, (a, b)->a[0]-b[0]);
         long[] prefix = prefix(coins, n);
-        //System.out.println(Arrays.toString(prefix));
+
         
         long maxCoins = 0;
         for(int i=0;i<n;i++){
             int start = coins[i][0], end = coins[i][1];
             int reqEnd = start+k-1, reqStart = end-k+1;
 
-            // Cost For start to reqEnd(start+k-1);
-            // Find highest index which l<=reqEnd
+
             int ub = upperBound(coins, n, reqEnd);
             if(ub != -1) {
                 long totoalCoins1 = prefix[ub+1] - prefix[i];
@@ -20,8 +19,7 @@ class Solution {
             }
             
 
-            // Cost For reqStart(end-k+1) to end;
-            // Find smallest index which h>=reqStart
+
             int lb = lowerBound(coins, n, reqStart);
             if(lb < n) {
                 long totoalCoins2 = prefix[i+1] - prefix[lb];
