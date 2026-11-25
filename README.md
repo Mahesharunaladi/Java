@@ -412,6 +412,7 @@
 | [3903-smallest-stable-index-i](https://github.com/Mahesharunaladi/Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mahesharunaladi/Java/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Mahesharunaladi/Java/tree/master/3934-smallest-unique-subarray) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Mahesharunaladi/Java/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Mahesharunaladi/Java/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3965-finish-time-of-tasks-i](https://github.com/Mahesharunaladi/Java/tree/master/3965-finish-time-of-tasks-i) |
 | [3971-maximum-total-value](https://github.com/Mahesharunaladi/Java/tree/master/3971-maximum-total-value) |
@@ -776,6 +777,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mahesharunaladi/Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Mahesharunaladi/Java/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Mahesharunaladi/Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Mahesharunaladi/Java/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Counting
 |  |
 | ------- |
