@@ -411,6 +411,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/Mahesharunaladi/Java/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Mahesharunaladi/Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mahesharunaladi/Java/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Mahesharunaladi/Java/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Mahesharunaladi/Java/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3965-finish-time-of-tasks-i](https://github.com/Mahesharunaladi/Java/tree/master/3965-finish-time-of-tasks-i) |
 | [3971-maximum-total-value](https://github.com/Mahesharunaladi/Java/tree/master/3971-maximum-total-value) |
@@ -467,6 +468,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mahesharunaladi/Java/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mahesharunaladi/Java/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3866-first-unique-even-element](https://github.com/Mahesharunaladi/Java/tree/master/3866-first-unique-even-element) |
+| [3934-smallest-unique-subarray](https://github.com/Mahesharunaladi/Java/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -677,6 +679,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3620-network-recovery-pathways](https://github.com/Mahesharunaladi/Java/tree/master/3620-network-recovery-pathways) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/Mahesharunaladi/Java/tree/master/3733-minimum-time-to-complete-all-deliveries) |
+| [3934-smallest-unique-subarray](https://github.com/Mahesharunaladi/Java/tree/master/3934-smallest-unique-subarray) |
 | [3971-maximum-total-value](https://github.com/Mahesharunaladi/Java/tree/master/3971-maximum-total-value) |
 ## Stack
 |  |
@@ -1083,4 +1086,16 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Mahesharunaladi/Java/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Mahesharunaladi/Java/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Mahesharunaladi/Java/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Mahesharunaladi/Java/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
