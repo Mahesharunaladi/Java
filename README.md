@@ -46,6 +46,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mahesharunaladi/Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mahesharunaladi/Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mahesharunaladi/Java/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/Mahesharunaladi/Java/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Mahesharunaladi/Java/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Mahesharunaladi/Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mahesharunaladi/Java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -149,6 +150,7 @@
 | [0068-text-justification](https://github.com/Mahesharunaladi/Java/tree/master/0068-text-justification) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mahesharunaladi/Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mahesharunaladi/Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Mahesharunaladi/Java/tree/master/3360-stone-removal-game) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Mahesharunaladi/Java/tree/master/3412-find-mirror-score-of-a-string) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Mahesharunaladi/Java/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mahesharunaladi/Java/tree/master/3498-reverse-degree-of-a-string) |
